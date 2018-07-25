@@ -1,2 +1,2 @@
 # MediBlock
-A prescription handling platform powered by blockchain
+MediBlock is a prescription handling platform powered by blockchain
