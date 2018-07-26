@@ -1,8 +1,3 @@
-/**
- * My commodity trading network
- */
-namespace org.example.mynetwork
-
 asset Prescription identified by presID {
     o String presID
     o String drugName
